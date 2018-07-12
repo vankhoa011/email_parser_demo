@@ -1,0 +1,26 @@
+MIME-Version: 1.0
+Received: by 2002:a8a:71a:0:0:0:0:0 with HTTP; Wed, 11 Jul 2018 07:07:05 -0700 (PDT)
+Date: Wed, 11 Jul 2018 21:07:05 +0700
+Delivered-To: vankhoa011@gmail.com
+Message-ID: <CAFSPm4g2+XkGUy=jkgEbaiknCF+xRv6pu2Lk+mq8A0L+OgDswA@mail.gmail.com>
+Subject: Demo
+From: Khoa Nguyen <vankhoa011@gmail.com>
+To: Nhi Nguyen Truong <ynhinguyentruong@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000f45c850570b9c209"
+
+--000000000000f45c850570b9c209
+Content-Type: text/plain; charset="UTF-8"
+
+Demo 1
+
+-- 
+Thanks and Regards,
+Khoa Nguyen.
+
+--000000000000f45c850570b9c209
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Demo 1<br clear="all"><div><br></div>-- <br><div class="gmail_signature" data-smartmail="gmail_signature">Thanks and Regards,<div>Khoa Nguyen.<br><br></div></div>
+</div>
+
+--000000000000f45c850570b9c209--
