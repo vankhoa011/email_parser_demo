@@ -1,5 +1,9 @@
 # This is demo project how to deploy a lambda function by Terraform
 
+## Blog
+
+https://medium.com/@vankhoa011/parsing-log-by-aws-lambda-deploying-code-by-terraform-and-analyzing-data-by-aws-athena-92430e01680e
+
 ### How to pakage this application.
 
 1. You should create a virtualenv for Python. I'm using Python 3.6
